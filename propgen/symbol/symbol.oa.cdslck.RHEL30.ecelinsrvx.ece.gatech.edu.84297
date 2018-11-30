@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Wed Nov 28 13:47:34 2018 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /nethome/dzuberi3/project6130/AB#2bC/symbol/symbol.oa.cdslck
-TimeEditLocked                 Wed Nov 28 15:00:57 2018 EST
+FilePathUsedToEditLock         /nethome/dzuberi3/project6130/propgen/symbol/symbol.oa.cdslck
+TimeEditLocked                 Wed Nov 28 15:22:47 2018 EST

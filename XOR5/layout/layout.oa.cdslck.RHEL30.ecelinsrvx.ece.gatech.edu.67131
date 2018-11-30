@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      dzuberi3
 HostName                       ecelinsrvx.ece.gatech.edu
-ProcessIdentifier              84297
-ProcessCreationTime_UTC        1543430854
-ProcessCreationTime_Readable   Wed Nov 28 13:47:34 2018 EST
+ProcessIdentifier              67131
+ProcessCreationTime_UTC        1543600929
+ProcessCreationTime_Readable   Fri Nov 30 13:02:09 2018 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /nethome/dzuberi3/project6130/XOR5/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Nov 28 14:53:55 2018 EST
+FilePathUsedToEditLock         /nethome/dzuberi3/project6130/XOR5/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Fri Nov 30 13:07:06 2018 EST
