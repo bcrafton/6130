@@ -5,7 +5,7 @@ radix 1 4 4 4 4
 
 vname sleep A<[3:0]> B<[3:0]> P<[7:4]> P<[3:0]>
 
-io i i o o
+io i i i o o
 
 tunit 1ns
 
