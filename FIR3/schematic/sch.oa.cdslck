@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      bcrafton3
+HostName                       icsrl-srv1.ece.gatech.edu
+ProcessIdentifier              19273
+ProcessCreationTime_UTC        1544365127
+ProcessCreationTime_Readable   Sun Dec  9 09:18:47 2018 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nethome/bcrafton3/6130/ECE6130_Cadence/6130/FIR3/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Dec  9 14:05:24 2018 EST

@@ -1,3 +1,5 @@
+import io
+
 in_file = open('adder.vec','r')
 text_file = open('output.vec','w')
 
@@ -20,7 +22,7 @@ for a in range(0,64):
 		b3_0 = int(bstr[2:],2)
 		f5_4 = int(fstr[0:2],2)
 		f3_0 = int(fstr[2:],2)
-		line = '{0:01x}'.format(a5_4) + ' ' + '{0:01x}'.format(a3_0) + ' ' + '{0:01x}'.format(b5_4) + ' ' + '{0:01x}'.format(b3_0)+ ' ' + '{0:01x}'.format(f5_4) + ' ' + '{0:01x}'.format(f3_0) + '\n'
+		line = '1 ' + '{0:01x}'.format(a5_4) + ' ' + '{0:01x}'.format(a3_0) + ' ' + '{0:01x}'.format(b5_4) + ' ' + '{0:01x}'.format(b3_0)+ ' ' + '{0:01x}'.format(f5_4) + ' ' + '{0:01x}'.format(f3_0) + '\n'
 		text_file.write(line)
 
 text_file.close()

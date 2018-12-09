@@ -44,10 +44,10 @@ for b0 in range(0,16):
 				else:
 					outputhi = '0'
 					outputlo = outputhex
-				line1 = '{0:01x} {1:01x} {2:01x} {3:01x} {4:01x} 0 x x\n'.format(x[0], b[0], b[1], b[2], b[3])
-				line2 = '{0:01x} {1:01x} {2:01x} {3:01x} {4:01x} 1 {5:s} {6:s}\n'.format(x[0], b[0], b[1], b[2], b[3],outputhi, outputlo)
+				line1 = '1 {0:01x} {1:01x} {2:01x} {3:01x} {4:01x} 0 x x\n'.format(x[0], b[0], b[1], b[2], b[3])
+				line2 = '1 {0:01x} {1:01x} {2:01x} {3:01x} {4:01x} 1 {5:s} {6:s}\n'.format(x[0], b[0], b[1], b[2], b[3],outputhi, outputlo)
 				text_file.write(line1)
 				text_file.write(line2)
-				text_file.write(';'+str(x) + '\n' )
+				# text_file.write(';'+str(x) + '\n' )
 
 text_file.close()
